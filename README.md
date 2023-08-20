@@ -9,3 +9,6 @@ Papers about joint learning Graph and Text.
 
 # Awesome-LLM-PEFT
 (1) [Arxiv] **Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning** [[paper]](https://arxiv.org/pdf/2303.15647.pdf)</br>
+(2) [ICLR23] **LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS** [[paper]](https://arxiv.org/pdf/2106.09685.pdf)</br>
+(3) [Medium] **Fine-tuning a GPT — LoRA** [[blog]](https://dataman-ai.medium.com/fine-tune-a-gpt-lora-e9b72ad4ad3)</br>
+(4) [Youtube] **Prefix-Tuning** [[Video]](https://www.google.com/search?q=prefix-tuning+code+tutorial&oq=prefix-tuning+code+tutorial&aqs=chrome..69i57j33i160l2j33i160i395.6584j1j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d35e60fa,vid:TwE2m6Z991s)
