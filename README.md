@@ -6,7 +6,6 @@ Papers about joint learning Graph and Text.
 (2) [Arxiv] **Natural Language is All a Graph Needs** [[paper]](https://arxiv.org/pdf/2308.07134.pdf#:~:text=By%20exclusively%20using%20natural%20language,unified%20pipeline%20in%20generative%20manner.)</br>
 (3) [Arxiv] **Text Generation from Knowledge Graphs with Graph Transformers**[[paper]](https://arxiv.org/pdf/1904.02342.pdf)[[code]](https://github.com/rikdz/GraphWriter)</br>
 (4) [Arxiv] **JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs**[[paper]](https://arxiv.org/pdf/2106.10502v1.pdf)[[code]](https://github.com/thu-coai/JointGT)</br>
-(5) [Arxiv] ****
 
 
 
