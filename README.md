@@ -31,3 +31,6 @@ Papers about joint learning Graph and Text.
 
 
 # Encoding Structural Patterns
+[ICLR 2022] **Graph Neural Networks with Learnable Structural and Positional Representations** [[paper]](https://openreview.net/forum?id=wTTjnvGphYj)
+[Arxiv 2023] **Graph Positional and Structural Encoder** [[paper]](https://arxiv.org/pdf/2307.07107.pdf)
+
