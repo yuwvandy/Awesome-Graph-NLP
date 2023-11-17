@@ -16,3 +16,11 @@ Papers about joint learning Graph and Text.
 (4) [Youtube] **Prefix-Tuning** [[Video]](https://www.google.com/search?q=prefix-tuning+code+tutorial&oq=prefix-tuning+code+tutorial&aqs=chrome..69i57j33i160l2j33i160i395.6584j1j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d35e60fa,vid:TwE2m6Z991s)</br>
 (5) [Arxiv] **Teach LLMs to Personalize – An Approach inspired by Writing Education** [[paper]](https://arxiv.org/pdf/2308.07968.pdf)</br>
 (6) [Arxiv] **LaMP: When Large Language Models Meet Personalization** [[paper]](https://arxiv.org/pdf/2304.11406.pdf)
+
+# Graph-enhanced Textual Generation
+
+
+# Graph-enhanced LLM
+
+
+# Encoding Structural Patterns
