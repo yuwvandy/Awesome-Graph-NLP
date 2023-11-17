@@ -18,7 +18,14 @@ Papers about joint learning Graph and Text.
 (6) [Arxiv] **LaMP: When Large Language Models Meet Personalization** [[paper]](https://arxiv.org/pdf/2304.11406.pdf)
 
 # Graph-enhanced Textual Generation
-
+[ACL 2019] **Graph Enhanced Cross-Domain Text-to-SQL Generation** [[paper]](https://aclanthology.org/D19-5319/)
+[ACL 2020] **Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks** [[paper]](https://aclanthology.org/2020.acl-main.67/)
+[ACM] **A Survey of Knowledge-enhanced Text Generation** [[paper]](https://dl.acm.org/doi/abs/10.1145/3512467)
+[NAACL 2022] **Text Generation from Knowledge Graphs with Graph Transformers** [[paper]](https://arxiv.org/abs/1904.02342)
+[EMNLP2021] **Investigating Pretrained Language Models for Graph-to-Text Generation** [[paper]](https://arxiv.org/abs/2007.08426)
+[ACL 2021] **JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs** [[paper]](https://arxiv.org/abs/2106.10502)
+[ACL 2019] **Enhancing AMR-to-Text Generation with Dual Graph Representations** [[paper]](https://aclanthology.org/D19-1314.pdf)
+[NAACL 2019] **Structural Neural Encoders for AMR-to-text Generation** [[paper]](https://arxiv.org/abs/1903.11410)
 
 # Graph-enhanced LLM
 
