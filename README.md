@@ -26,6 +26,7 @@ Papers about joint learning Graph and Text.
 [ACL 2021] **JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs** [[paper]](https://arxiv.org/abs/2106.10502)</br>
 [ACL 2019] **Enhancing AMR-to-Text Generation with Dual Graph Representations** [[paper]](https://aclanthology.org/D19-1314.pdf)</br>
 [NAACL 2019] **Structural Neural Encoders for AMR-to-text Generation** [[paper]](https://arxiv.org/abs/1903.11410)</br>
+[Survey] **Open-world Story Generation with Structured Knowledge Enhancement: A Comprehensive Survey** [[paper]](https://arxiv.org/pdf/2212.04634.pdf)</br>
 
 # Graph-enhanced LLM
 
